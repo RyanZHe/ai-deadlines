@@ -4,8 +4,8 @@
 - name: SIGGRAPH ASIA
   year: 2019
   id: siggraphasia2019
-  link: https://sa2019.siggraph.org/en/
-  deadline: "2019-06-06 23:59:59"
+  link: TBA
+  deadline: TBA
   timezone: UTC/GMT+10
   date: November 14 - 20, 2019
   place: Brisbane, Australia
@@ -35,9 +35,9 @@
   year: 2018
   id: DigiPro2018
   link: http://dp2018.digiproconf.org/
-  deadline: "2018-04-12 23:59:59"
+  deadline: "2018-05-11 23:59:59"
   timezone: PDT/UTC-7
-  date: Auguest 10 - 12, 2018
+  date: Auguest 11, 2018
   place: Vancover, British Columbia, Canada
   sub: CG
 
