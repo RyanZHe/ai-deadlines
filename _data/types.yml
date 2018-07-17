@@ -1,3 +1,6 @@
 ---
 - name: Computer Graphics
   sub: CG
+
+- name: Computer Vision
+  sub: CV

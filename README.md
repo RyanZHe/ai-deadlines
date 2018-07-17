@@ -1,6 +1,6 @@
 ## CG Deadlines
 
-Countdown timers to keep track of a Computer Graphics conference deadlines.
+Countdown timers to keep track of Computer Graphics conference deadlines.
 
 ## Adding/updating a conference
 
@@ -12,7 +12,9 @@ To add or update information:
 
 ## License
 
-Appreciate <a href="http://github.com/abhshkdz/ai-deadlines">@abhshkdz</a> for creating the original website <a href="aideadlin.es">aideadlin.es</a>.
+Thank <a href="http://github.com/abhshkdz/ai-deadlines">@abhshkdz</a> for creating the original website <a href="aideadlin.es">aideadlin.es</a>.
+
+Collection of past conference papers can be seen at <a href="http://kesen.realtimerendering.com/">Resource for Computer Graphics</a>
 
 [MIT][1]
 
