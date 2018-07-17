@@ -21,6 +21,56 @@
   place: Tokyo, Japan
   sub: CG
 
+- name: UIST
+  year: 2018
+  id: UIST2018
+  link: http://uist.acm.org/uist2018/
+  deadline: "2018-04-05 17:00"
+  timezone: PDT
+  date: October 14 - 17, 2018
+  place: Berlin, Germany
+  sub: CG
+
+- name: SUI
+  year: 2018
+  id: SUI2018
+  link: TBA
+  deadline: TBA
+  timezone: UTC/GMT-10
+  date: October 13 - 14, 2018
+  place: Berlin, Germany
+  sub: CG
+
+- name: ESIHISE
+  year: 2018
+  id: ESIHISEw018
+  link: http://www.ainci.com/ESIHISE-2018/conference_ESIHISE_2018.html
+  deadline: "2018-07-31"
+  timezone: UTC/GMT-10
+  date: October 11 - 13, 2018
+  place: Athens, Greece
+  sub: CG
+
+- name: RDINIDR
+  year: 2018
+  id: RDINIDR2018
+  link: http://www.alaipo.com/RDINIDR-2018/conference_RDINIDR_2018.html
+  deadline: "2018-07-31"
+  timezone: UTC/GMT-10
+  date: October 8 - 10, 2018
+  place: Athens, Greece
+  sub: CG
+
+- name: CW
+  year: 2018
+  id: CW2018
+  link: http://www.cyberworlds-conference.org/
+  deadline: "2018-05-21 23:59"
+  timezone: UTC/GMT-10
+  date: October 3 - 5, 2018
+  place: Singapore, Singapore
+  sub: CG
+
 - name: HCITOCH
   year: 2018
   id: HCITOCH2018
@@ -69,4 +119,4 @@
   timezone: UTC/GMT-7
   date: Auguest 10 - 11, 2018
   place: Vancover, British Columbia, Canada
-  sub: CG
+  sub: C
