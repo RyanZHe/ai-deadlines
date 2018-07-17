@@ -10,3 +10,23 @@
   date: August 12 - 16, 2018
   place: Vancover, British Columbia, Canada
   sub: CG
+
+- name: SIGGRAPH ASIA
+  year: 2018
+  id: siggraphasia2018
+  link: https://sa2018.siggraph.org/en/
+  deadline: "2018-06-6 23:59:59"
+  timezone: UTC/GMT+9
+  date: December 4 - 7, 2018
+  place: Tokyo, Japan
+  sub: CG
+
+- name: SIGGRAPH ASIA
+  year: 2019
+  id: siggraphasia2019
+  link: https://sa2019.siggraph.org/en/
+  deadline: "2019-06-6 23:59:59"
+  timezone: UTC/GMT+10
+  date: November 14 - 20, 2019
+  place: Brisbane, Australia
+  sub: CG
