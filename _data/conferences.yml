@@ -21,6 +21,16 @@
   place: Tokyo, Japan
   sub: CG
 
+- name: HCITOCH
+  year: 2018
+  id: HCITOCH2018
+  link: http://www.ainci.com/HCITOCH-2018/workshop_HCITOCH_2018.html
+  deadline: "2018-08-31"
+  timezone: UTC/GMT-10
+  date: September 19 - 21, 2018
+  place: Genova, Italy
+  sub: CG
+
 - name: SIGGRAPH
   year: 2018
   id: siggraph2018
