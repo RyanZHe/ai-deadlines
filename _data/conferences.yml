@@ -1,14 +1,14 @@
 
 ---
 
-- name: SIGGRAPH
-  year: 2018
-  id: siggraph2018
-  link: https://s2018.siggraph.org/
-  deadline: "2018-01-23 22:00:00"
-  timezone: UTC/GMT-7
-  date: August 12 - 16, 2018
-  place: Vancover, British Columbia, Canada
+- name: SIGGRAPH ASIA
+  year: 2019
+  id: siggraphasia2019
+  link: https://sa2019.siggraph.org/en/
+  deadline: "2019-06-06 23:59:59"
+  timezone: UTC/GMT+10
+  date: November 14 - 20, 2019
+  place: Brisbane, Australia
   sub: CG
 
 - name: SIGGRAPH ASIA
@@ -21,12 +21,42 @@
   place: Tokyo, Japan
   sub: CG
 
-- name: SIGGRAPH ASIA
-  year: 2019
-  id: siggraphasia2019
-  link: https://sa2019.siggraph.org/en/
-  deadline: "2019-06-06 23:59:59"
-  timezone: UTC/GMT+10
-  date: November 14 - 20, 2019
-  place: Brisbane, Australia
+- name: SIGGRAPH
+  year: 2018
+  id: siggraph2018
+  link: https://s2018.siggraph.org/
+  deadline: "2018-01-23 22:00:00"
+  timezone: UTC/GMT-7
+  date: August 12 - 16, 2018
+  place: Vancover, British Columbia, Canada
+  sub: CG
+
+- name: DigiPro
+  year: 2018
+  id: DigiPro2018
+  link: http://dp2018.digiproconf.org/
+  deadline: "2018-04-12 23:59:59"
+  timezone: PDT/UTC-7
+  date: Auguest 10 - 12, 2018
+  place: Vancover, British Columbia, Canada
+  sub: CG
+
+- name: HPG
+  year: 2018
+  id: HPG2018
+  link: http://www.highperformancegraphics.org/2018/
+  deadline: "2018-04-12 23:59:59"
+  timezone: UTC/GMT-7
+  date: Auguest 10 - 12, 2018
+  place: Vancover, British Columbia, Canada
+  sub: CG
+
+- name: SAP
+  year: 2018
+  id: SAP2018
+  link: http://sap.acm.org/2018/
+  deadline: "2018-04-11 23:59:59"
+  timezone: UTC/GMT-7
+  date: Auguest 10 - 11, 2018
+  place: Vancover, British Columbia, Canada
   sub: CG
