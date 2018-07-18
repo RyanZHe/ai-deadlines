@@ -11,6 +11,36 @@
   place: Brisbane, Australia
   sub: CG
 
+- name: ICCP
+  year: 2019
+  id: ICCP2019
+  link: http://iccp2019.naist.jp/
+  deadline: TBA
+  timezone: UTC/GMT-12
+  date: May 15 - 18, 2019
+  place: Tokyo, Japan
+  sub: CG
+
+- name: EUROGRAPHICS
+  year: 2019
+  id: eurographics2019
+  link: https://www.eurographics2019.it/
+  deadline: TBA
+  timezone: UTC/GMT+10
+  date: May 6 - 10, 2019
+  place: Genova, Italy
+  sub: CG
+
+- name: GDC
+  year: 2019
+  id: gdc2018
+  link: TBA
+  deadline: TBA
+  timezone: UTC/GMT+9
+  date: December 18 - 22, 2018
+  place: San Francisco, USA
+  sub: CG
+
 - name: SIGGRAPH ASIA
   year: 2018
   id: siggraphasia2018
@@ -21,12 +51,22 @@
   place: Tokyo, Japan
   sub: CG
 
+- name: IEEEVIS
+  year: 2018
+  id: IEEEVIS2018
+  link: http://ieeevis.org/year/2018/welcome
+  deadline: "2018-03-31"
+  timezone: UTC/GMT-10
+  date: October 21 - 26, 2018
+  place: Berlin, Germany
+  sub: CG
+
 - name: UIST
   year: 2018
   id: UIST2018
   link: http://uist.acm.org/uist2018/
   deadline: "2018-04-05 17:00"
-  timezone: PDT
+  timezone: UTC/GMT-10
   date: October 14 - 17, 2018
   place: Berlin, Germany
   sub: CG
@@ -49,6 +89,16 @@
   timezone: UTC/GMT-10
   date: October 11 - 13, 2018
   place: Athens, Greece
+  sub: CG
+
+- name: PG
+  year: 2018
+  id: PG2018
+  link: http://sweb.cityu.edu.hk/pg2018/
+  deadline: "2018-06-12 23:59"
+  timezone: PDT/GMT-7
+  date: October 8 - 11, 2018
+  place: Hong Kong, China
   sub: CG
 
 - name: RDINIDR
@@ -119,4 +169,64 @@
   timezone: UTC/GMT-7
   date: Auguest 10 - 11, 2018
   place: Vancover, British Columbia, Canada
-  sub: C
+  sub: CG
+
+- name: SGA
+  year: 2018
+  id: SGA2018
+  link: https://sca2018.inria.fr/
+  deadline: "2018-06-03 23:59"
+  timezone: UTC/GMT-12
+  date: July 11 - 13, 2018
+  place: Paris, France
+  sub: CG
+
+- name: SGP
+  year: 2018
+  id: SGP2018
+  link: https://sgp2018.sciencesconf.org/
+  deadline: "2018-04-12 23:59"
+  timezone: UTC/GMT-12
+  date: July 9 - 11, 2018
+  place: Paris, France
+  sub: CG
+
+- name: EGSR
+  year: 2018
+  id: EGSR2018
+  link: https://cg.ivd.kit.edu/egsr18/
+  deadline: "2018-04-09 23:59"
+  timezone: UTC/GMT-12
+  date: July 2 - 4, 2018
+  place: Karlsruhe, Germany
+  sub: CG
+
+- name: CGI
+  year: 2018
+  id: CGI2018
+  link: http://www.cgs-network.org/cgi18/
+  deadline: "2018-02-13 23:59"
+  timezone: UTC/GMT-12
+  date: June 11 - 14, 2018
+  place: Bintan, Indonesia
+  sub: CG
+
+- name: I3D
+  year: 2018
+  id: I3D2018
+  link: http://i3dsymposium.github.io/2018/
+  deadline: "2017-12-29 11:59"
+  timezone: UTC/GMT-12
+  date: May 15 - 18, 2018
+  place: Montreal, Quebec, Canada
+  sub: CG
+
+- name: GI
+  year: 2018
+  id: GI2018
+  link: http://graphicsinterface.org/conference/2018/
+  deadline: "2017-12-22 11:59"
+  timezone: UTC/GMT-12
+  date: May 8 - 11, 2018
+  place: Toronto, Ontario, Canada
+  sub: CG

@@ -4,3 +4,6 @@
 
 - name: Computer Vision
   sub: CV
+
+- name: Game Development
+  sub: GD
